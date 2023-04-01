@@ -9,6 +9,8 @@ npm install react
 ```
 
 Agora vou escrever um código em HTML para testa:
+Agora vou escrever um código em HTML para testa:
+Agora vou escrever um código em HTML para testa:
 
 ```
 <!doctype html>
